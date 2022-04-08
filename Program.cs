@@ -8,7 +8,7 @@ namespace HESAP_MAKİNESİ
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int toplama_sonuc, çıkarma_sonuc,çarpma_sonuc;
             double bölme_sonuc;
